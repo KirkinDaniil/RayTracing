@@ -1,0 +1,20 @@
+C:\Users\Владимир Садовский\Desktop\RT\RT\bin\Debug\RT.exe.config
+C:\Users\Владимир Садовский\Desktop\RT\RT\bin\Debug\RT.exe
+C:\Users\Владимир Садовский\Desktop\RT\RT\bin\Debug\RT.pdb
+C:\Users\Владимир Садовский\Desktop\RT\RT\obj\Debug\RT.csprojAssemblyReference.cache
+C:\Users\Владимир Садовский\Desktop\RT\RT\obj\Debug\RT.Form1.resources
+C:\Users\Владимир Садовский\Desktop\RT\RT\obj\Debug\RT.Properties.Resources.resources
+C:\Users\Владимир Садовский\Desktop\RT\RT\obj\Debug\RT.csproj.GenerateResource.cache
+C:\Users\Владимир Садовский\Desktop\RT\RT\obj\Debug\RT.csproj.CoreCompileInputs.cache
+C:\Users\Владимир Садовский\Desktop\RT\RT\obj\Debug\RT.exe
+C:\Users\Владимир Садовский\Desktop\RT\RT\obj\Debug\RT.pdb
+C:\Users\anast\OneDrive\Рабочий стол\чет Данино\Ucheba\Учеба\Компьютерная графика\RT\RT\bin\Debug\RT.exe.config
+C:\Users\anast\OneDrive\Рабочий стол\чет Данино\Ucheba\Учеба\Компьютерная графика\RT\RT\bin\Debug\RT.exe
+C:\Users\anast\OneDrive\Рабочий стол\чет Данино\Ucheba\Учеба\Компьютерная графика\RT\RT\bin\Debug\RT.pdb
+C:\Users\anast\OneDrive\Рабочий стол\чет Данино\Ucheba\Учеба\Компьютерная графика\RT\RT\obj\Debug\RT.csprojAssemblyReference.cache
+C:\Users\anast\OneDrive\Рабочий стол\чет Данино\Ucheba\Учеба\Компьютерная графика\RT\RT\obj\Debug\RT.Form1.resources
+C:\Users\anast\OneDrive\Рабочий стол\чет Данино\Ucheba\Учеба\Компьютерная графика\RT\RT\obj\Debug\RT.Properties.Resources.resources
+C:\Users\anast\OneDrive\Рабочий стол\чет Данино\Ucheba\Учеба\Компьютерная графика\RT\RT\obj\Debug\RT.csproj.GenerateResource.cache
+C:\Users\anast\OneDrive\Рабочий стол\чет Данино\Ucheba\Учеба\Компьютерная графика\RT\RT\obj\Debug\RT.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Рабочий стол\чет Данино\Ucheba\Учеба\Компьютерная графика\RT\RT\obj\Debug\RT.exe
+C:\Users\anast\OneDrive\Рабочий стол\чет Данино\Ucheba\Учеба\Компьютерная графика\RT\RT\obj\Debug\RT.pdb
